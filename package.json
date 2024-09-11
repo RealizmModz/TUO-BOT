@@ -1,0 +1,22 @@
+{
+  "name": "tuo-bot",
+  "version": "1.0.0",
+  "description": "© 2024 RealizmModz All rights reserved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealizmModz/TUO-BOT.git"
+  },
+  "author": "RealizmModz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RealizmModz/TUO-BOT/issues"
+  },
+  "homepage": "https://github.com/RealizmModz/TUO-BOT#readme",
+  "dependencies": {
+    "discord.js": "^14.16.1"
+  }
+}
